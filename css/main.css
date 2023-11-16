@@ -74,7 +74,7 @@ main p{
     grid-column: 1 / 5;
 }
 .gallery-primary ul li:nth-child(12){
-    grid-column: 1 / 5;
+    grid-column: 1 / 3;
 }
 
 main p:nth-last-child(1){
@@ -104,7 +104,7 @@ footer p{
     .gallery-primary ul li:nth-child(5),
     .gallery-primary ul li:nth-child(6),
     .gallery-primary ul li:nth-child(7),
-    .gallery-primary ul li:nth-child(12)
+    .gallery-primary ul li:nth-child(11)
     
     {
         /* 1 image sur 3 colonnes */
